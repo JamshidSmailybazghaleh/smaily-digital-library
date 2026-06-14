@@ -1,0 +1,56 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+max-width: 1100px;
+margin: auto;
+padding: 20px;
+line-height: 1.7;
+color: #222222;
+background: #FFFFFF;
+}
+
+h1 {
+color: #0A2342;
+text-align: center;
+}
+
+h2 {
+color: #0A2342;
+border-bottom: 2px solid #D4AF37;
+padding-bottom: 5px;
+}
+
+a {
+color: #0A2342;
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover {
+color: #D4AF37;
+}
+
+.hero {
+text-align: center;
+padding: 40px 20px;
+}
+
+.tagline {
+color: #D4AF37;
+font-size: 1.2em;
+font-weight: bold;
+}
+
+.card {
+border: 1px solid #e0e0e0;
+padding: 15px;
+margin: 15px 0;
+border-radius: 8px;
+}
+
+.footer {
+margin-top: 50px;
+text-align: center;
+border-top: 1px solid #D4AF37;
+padding-top: 20px;
+color: #666666;
+}
