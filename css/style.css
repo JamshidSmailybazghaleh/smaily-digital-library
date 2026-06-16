@@ -146,3 +146,16 @@ margin-bottom:20px;
 color:#D4AF37;
 font-size:1.4rem;
 }
+.button{
+display:inline-block;
+padding:14px 28px;
+margin:10px;
+background:#D4AF37;
+color:#0A2342;
+border-radius:10px;
+font-weight:bold;
+}
+
+.button:hover{
+transform:translateY(-2px);
+}
