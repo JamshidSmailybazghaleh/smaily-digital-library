@@ -89,3 +89,36 @@ margin:10px;
 min-height:180px;
 
 }
+.pillar-grid{
+
+display:grid;
+
+grid-template-columns:1fr 1fr;
+
+gap:30px;
+
+margin:40px 0;
+
+}
+
+.pillar-card{
+
+background:#0A2342;
+
+color:white;
+
+padding:40px;
+
+border-radius:18px;
+
+text-align:center;
+
+}
+
+.pillar-card h3{
+
+color:#D4AF37;
+
+font-size:1.8rem;
+
+}
