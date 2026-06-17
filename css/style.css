@@ -228,3 +228,23 @@ body{
 padding:20px;
 }
   }
+.brand{
+display:flex;
+align-items:center;
+gap:15px;
+}
+
+.logo{
+height:72px;
+width:auto;
+display:block;
+}
+
+.brand h1{
+margin:0;
+line-height:1;
+}
+
+.brand p{
+margin-top:4px;
+  }
