@@ -221,3 +221,18 @@ font-weight:bold;
 nav a{
 margin-left:20px;
 }
+.button{
+display:inline-block;
+padding:14px 28px;
+margin:10px;
+background:#0A2342;
+color:white;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.button:hover{
+background:#D4AF37;
+color:#0A2342;
+  }
