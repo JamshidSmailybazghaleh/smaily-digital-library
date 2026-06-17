@@ -120,24 +120,15 @@ letter-spacing:2px;
 }
 
 .hero{
-
-padding:120px 50px;
-
-}
-.hero{
+padding:140px 60px;
+text-align:center;
 background:linear-gradient(
-135deg,
-#0A2342 0%,
-#153b6f 100%
+180deg,
+#ffffff 0%,
+#f8f9fb 100%
 );
-
-color:white;
-
-padding:120px 60px;
-
 border-radius:24px;
-
-margin-bottom:60px;
+margin-bottom:70px;
 }
 
 .hero h1{
