@@ -1,5 +1,4 @@
 body{
-body{
 max-width:1200px;
 margin:auto;
 padding:40px;
@@ -112,11 +111,7 @@ margin-top:30px;
 
 }
 .hero h1{
-
-font-size:4rem;
-
-letter-spacing:2px;
-
+color:#0A2342;
 }
 
 .hero{
@@ -236,26 +231,7 @@ font-weight:bold;
 background:#D4AF37;
 color:#0A2342;
   }
-.site-header{
-display:flex;
-justify-content:space-between;
-align-items:center;
-padding:20px 0;
-margin-bottom:40px;
-border-bottom:1px solid #e5e5e5;
-}
 
-.brand h1{
-margin:0;
-font-size:2rem;
-color:#0A2342;
-}
-
-.brand p{
-margin:0;
-color:#D4AF37;
-font-weight:bold;
-}
 
 nav a{
 margin-left:20px;
