@@ -190,9 +190,9 @@ color:#666;
 /* LOGO */
 
 .logo{
-height:60px;
-width:auto;
-margin-right:15px;
+height:80px;
+width:80px;
+object-fit:contain;
 }
 
 /* RESPONSIVE */
