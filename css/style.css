@@ -249,3 +249,24 @@ line-height:1;
 margin:4px 0 0 0;
 }
 
+.book-cover {
+
+width: 100%;
+
+max-width: 220px;
+
+display: block;
+
+margin: 0 auto 15px auto;
+
+border-radius: 10px;
+
+box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+}
+
+.card {
+
+text-align: center;
+
+  }
