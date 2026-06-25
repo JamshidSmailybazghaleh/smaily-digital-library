@@ -279,3 +279,12 @@ text-align: center;
 .roadmap-card:hover {
     transform: translateY(-4px);
 }
+.domains-grid a.card{
+text-decoration:none;
+color:inherit;
+display:block;
+}
+
+.domains-grid a.card:hover{
+transform:translateY(-4px);
+  }
