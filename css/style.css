@@ -60,7 +60,7 @@ color:white;
 
 border-radius:24px;
 margin-bottom:70px;
-
+  
 box-shadow:0 15px 40px rgba(0,0,0,0.15);
 }
 
@@ -270,3 +270,12 @@ box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 text-align: center;
 
   }
+.domains-grid a,
+.roadmap-card {
+    text-decoration: none;
+    color: inherit;
+  }
+.domains-grid a:hover,
+.roadmap-card:hover {
+    transform: translateY(-4px);
+}
