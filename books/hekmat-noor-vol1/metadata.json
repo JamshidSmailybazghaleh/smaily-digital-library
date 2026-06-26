@@ -1,1 +1,21 @@
-
+{
+  "book_id": "BK-0001",
+  "slug": "hekmat-noor-vol1",
+  "title": "Wisdom of Light",
+  "subtitle": "Volume I",
+  "original_title": "حکمت نور",
+  "volume": "Volume I",
+  "author": "Jamshid Smaily",
+  "language": "Persian",
+  "domain": "Wisdom",
+  "series": "Wisdom of Light",
+  "edition": "First Edition",
+  "version": "1.0",
+  "status": "Published",
+  "website": "https://jamshidsmailybazghaleh.github.io/smaily-digital-library/",
+  "page": "books/hekmat-noor-vol1/",
+  "cover": "cover.jpg",
+  "thumbnail": "thumbnail.jpg",
+  "sample": "sample.pdf",
+  "copyright": "© 2026 Jamshid Smaily. All Rights Reserved."
+}
