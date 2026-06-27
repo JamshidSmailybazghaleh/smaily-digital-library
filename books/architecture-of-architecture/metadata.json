@@ -1,0 +1,85 @@
+{
+  "book_id": "BK-0002",
+  "title": "Architecture of Architecture",
+  "subtitle": "The Foundational Framework of Architectural Thought",
+  "author": "Jamshid Smaily",
+  "publisher": "Smaily Knowledge Ecosystem",
+  "copyright": "© 2026 Jamshid Smaily. All Rights Reserved.",
+  "language": "Persian",
+  "domain": "Architecture",
+  "collection": "Architecture Collection",
+  "category": "Architecture Studies",
+
+  "publication": {
+    "status": "Published",
+    "edition": "First Digital Edition",
+    "version": "1.0",
+    "publication_year": 2026,
+    "format": "Digital Publication"
+  },
+
+  "description": "Architecture of Architecture is the foundational publication of the Architecture Domain within the Smaily Knowledge Ecosystem. It establishes the theoretical foundations, conceptual structure and philosophical framework of architecture as an integrated discipline connecting space, geometry, civilization, technology and human life.",
+
+  "keywords": [
+    "Architecture",
+    "Architecture of Architecture",
+    "Architectural Theory",
+    "Architectural Philosophy",
+    "Architectural Design",
+    "Built Environment",
+    "Architecture Domain",
+    "Smaily Knowledge Ecosystem",
+    "Jamshid Smaily"
+  ],
+
+  "files": {
+    "homepage": "index.html",
+    "cover": "cover.jpg",
+    "sample": "sample.pdf"
+  },
+
+  "resources": {
+    "sample_available": true,
+    "digital_edition": false,
+    "metadata_available": true
+  },
+
+  "related_publications": [
+    {
+      "book_id": "BK-0001",
+      "title": "Wisdom of Light — Volume I"
+    },
+    {
+      "book_id": "BK-0003",
+      "title": "Mathematics in Architecture"
+    }
+  ],
+
+  "knowledge_domain": {
+    "name": "Architecture",
+    "hub": "../../architecture-hub.html",
+    "domain_page": "../../architecture.html"
+  },
+
+  "citation": {
+    "recommended": "Smaily, Jamshid. Architecture of Architecture. Smaily Knowledge Ecosystem. First Digital Edition, 2026."
+  },
+
+  "identifier": {
+    "scheme": "SKE Book ID",
+    "value": "BK-0002"
+  },
+
+  "license": {
+    "type": "All Rights Reserved",
+    "holder": "Jamshid Smaily"
+  },
+
+  "status": {
+    "document_status": "Approved",
+    "metadata_version": "1.0"
+  },
+
+  "created": "2026-06",
+  "last_updated": "2026-06"
+}
