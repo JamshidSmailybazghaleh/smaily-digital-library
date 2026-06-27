@@ -1,0 +1,33 @@
+{
+  "book_id": "BK-0003",
+  "title": "Mathematics in Architecture",
+  "subtitle": "From Point to Infinity",
+  "author": "Jamshid Smaily",
+  "language": "Persian",
+  "domain": "Architecture",
+  "series": "Architecture Collection",
+  "publisher": "Smaily Knowledge Ecosystem",
+  "publication_status": "In Preparation",
+  "edition": "First Digital Edition",
+  "version": "1.0",
+  "format": "Digital Publication",
+  "copyright": "© 2026 Jamshid Smaily. All Rights Reserved.",
+  "description": "Mathematics in Architecture explores the relationship between mathematics, geometry and architectural form, demonstrating how mathematical principles shape architectural thinking, spatial organization and design.",
+  "keywords": [
+    "Architecture",
+    "Mathematics",
+    "Geometry",
+    "Architectural Design",
+    "Spatial Thinking",
+    "Smaily Knowledge Ecosystem"
+  ],
+  "sample_file": "sample.pdf",
+  "cover_image": "cover.jpg",
+  "homepage": "../../index.html",
+  "library": "../../books.html",
+  "foundational_works": "../../foundational-works.html",
+  "ecosystem": "../../ecosystem-map.html",
+  "license": "All Rights Reserved",
+  "template": "Reference Book Template v2.0",
+  "last_updated": "2026-06"
+}
