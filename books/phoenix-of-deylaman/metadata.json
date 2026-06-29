@@ -1,0 +1,60 @@
+{
+  "document_type": "Book",
+  "book_id": "BK-0004",
+
+  "title": "Phoenix of Deylaman",
+  "subtitle": "Civilization, Identity and Historical Continuity",
+
+  "author": {
+    "name": "Jamshid Smaily"
+  },
+
+  "publisher": "Smaily Knowledge Ecosystem",
+
+  "language": "Persian",
+
+  "domain": {
+    "code": "CIV",
+    "name": "Civilization"
+  },
+
+  "knowledge_hub": "Civilization Hub",
+
+  "series": "Civilization Collection",
+
+  "edition": "First Digital Edition",
+
+  "version": "1.0",
+
+  "publication_status": "Showcase Preview",
+
+  "publication_type": "Digital Showcase",
+
+  "description": "Phoenix of Deylaman explores civilization, historical continuity, cultural identity and the enduring legacy of Deylaman within the broader context of Iranian civilization.",
+
+  "keywords": [
+    "Civilization",
+    "History",
+    "Deylaman",
+    "Iran",
+    "Culture",
+    "Identity",
+    "Historical Continuity",
+    "Jamshid Smaily",
+    "Smaily Knowledge Ecosystem"
+  ],
+
+  "cover_image": "phoenix-of-deylaman-cover1.jpg",
+
+  "sample_file": "sample3.pdf",
+
+  "official_page": "index.html",
+
+  "publication_year": 2026,
+
+  "copyright": {
+    "holder": "Jamshid Smaily",
+    "year": 2026,
+    "license": "All Rights Reserved"
+  }
+}
