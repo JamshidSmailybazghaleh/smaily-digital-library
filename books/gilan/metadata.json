@@ -1,0 +1,60 @@
+{
+  "document_type": "Book",
+  "book_id": "BK-0005",
+
+  "title": "Gilan",
+  "subtitle": "History, Culture and Civilization",
+
+  "author": {
+    "name": "Jamshid Smaily"
+  },
+
+  "publisher": "Smaily Knowledge Ecosystem",
+
+  "language": "Persian",
+
+  "domain": {
+    "code": "CIV",
+    "name": "Civilization"
+  },
+
+  "knowledge_hub": "Civilization Hub",
+
+  "series": "Civilization Collection",
+
+  "edition": "First Digital Edition",
+
+  "version": "1.0",
+
+  "publication_status": "Showcase Preview",
+
+  "publication_type": "Digital Showcase",
+
+  "description": "Gilan presents a comprehensive exploration of the history, culture, civilization, geography and intellectual heritage of one of Iran's most significant regions.",
+
+  "keywords": [
+    "Gilan",
+    "Iran",
+    "Civilization",
+    "History",
+    "Culture",
+    "Regional Studies",
+    "Historical Heritage",
+    "Jamshid Smaily",
+    "Smaily Knowledge Ecosystem"
+  ],
+
+  "cover_image": "gilan-cover.png",
+
+  "sample_file": "sample4.pdf",
+
+  "official_page": "index.html",
+
+  "publication_year": 2026,
+
+  "copyright": {
+    "holder": "Jamshid Smaily",
+    "year": 2026,
+    "license": "All Rights Reserved"
+  }
+}
