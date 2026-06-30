@@ -1,0 +1,50 @@
+{
+  "book_id": "BK-0010",
+  "title": "Wisdom of Deylaman",
+  "subtitle": "The Intellectual Heritage of an Ancient Civilization",
+  "author": "Jamshid Smaily",
+  "language": "Persian",
+  "edition": "First Digital Edition",
+  "publication_status": "In Preparation",
+  "publication_type": "Digital Book",
+  "domain": "Wisdom",
+  "knowledge_hub": "Wisdom Hub",
+  "series": "Foundational Collection",
+  "ecosystem": "Smaily Knowledge Ecosystem",
+  "version": "1.0",
+  "copyright": "© 2026 Jamshid Smaily. All Rights Reserved.",
+  "description": "Wisdom of Deylaman explores the philosophical traditions, ethical foundations and intellectual heritage of Deylaman. The book presents wisdom as a living civilizational force connecting knowledge, culture, identity and historical continuity within the Smaily Knowledge Ecosystem.",
+  "keywords": [
+    "Wisdom",
+    "Deylaman",
+    "Wisdom of Deylaman",
+    "Civilization",
+    "Philosophy",
+    "Intellectual Heritage",
+    "Historical Memory",
+    "Ethics",
+    "Knowledge",
+    "Jamshid Smaily"
+  ],
+  "cover_image": "wisdom_of_deylaman_cover.png",
+  "sample_pdf": "sample8.pdf",
+  "digital_edition": "",
+  "repository": "Smaily Digital Library",
+  "license": "All Rights Reserved",
+  "related_publications": [
+    "BK-0004",
+    "BK-0006",
+    "BK-0009"
+  ],
+  "related_domains": [
+    "Wisdom",
+    "Civilization",
+    "History",
+    "Philosophy",
+    "Knowledge",
+    "Culture"
+  ],
+  "created": "2026",
+  "template": "BTS-001",
+  "metadata_standard": "MDS-001"
+}
