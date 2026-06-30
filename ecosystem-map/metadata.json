@@ -1,0 +1,24 @@
+{
+  "title": "Ecosystem Map",
+  "subtitle": "The Central Navigation System of the Smaily Knowledge Ecosystem",
+  "type": "Hub",
+  "author": "Jamshid Smaily",
+  "language": "English",
+  "status": "Published",
+  "category": "Knowledge Ecosystem",
+  "description": "The official navigation hub connecting foundational works, knowledge domains, digital library, research programs, core projects and the evolving intellectual architecture of the Smaily Knowledge Ecosystem.",
+  "cover": "ecosystem-map-cover.png",
+  "url": "/ecosystem-map/",
+  "version": "2.0",
+  "last_updated": "2026",
+  "keywords": [
+    "Ecosystem Map",
+    "Knowledge Ecosystem",
+    "Knowledge Graph",
+    "Digital Library",
+    "Foundational Works",
+    "Research Programs",
+    "Artificial Intelligence",
+    "Architecture"
+  ]
+}
