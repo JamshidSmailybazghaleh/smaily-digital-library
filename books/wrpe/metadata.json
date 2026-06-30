@@ -1,0 +1,49 @@
+{
+  "book_id": "BK-0008",
+  "title": "WRPE",
+  "subtitle": "World Research Proposal Engineering",
+  "author": "Jamshid Smaily",
+  "language": "Persian",
+  "edition": "First Digital Edition",
+  "publication_status": "In Preparation",
+  "publication_type": "Digital Book",
+  "domain": "Research Methodology",
+  "knowledge_hub": "Research Hub",
+  "series": "Foundational Collection",
+  "ecosystem": "Smaily Knowledge Ecosystem",
+  "version": "1.0",
+  "copyright": "© 2026 Jamshid Smaily. All Rights Reserved.",
+  "description": "WRPE (World Research Proposal Engineering) presents a comprehensive framework for designing, organizing and engineering professional research proposals through structured thinking, knowledge architecture and systematic scientific methodology.",
+  "keywords": [
+    "WRPE",
+    "Research Proposal",
+    "Proposal Engineering",
+    "Research Methodology",
+    "Knowledge Architecture",
+    "Structural Thinking",
+    "Academic Writing",
+    "Scientific Research",
+    "Innovation",
+    "Jamshid Smaily"
+  ],
+  "cover_image": "wrpe_cover.png",
+  "sample_pdf": "sample6.pdf",
+  "digital_edition": "",
+  "repository": "Smaily Digital Library",
+  "license": "All Rights Reserved",
+  "related_publications": [
+    "BK-0005",
+    "BK-0007",
+    "BK-0009"
+  ],
+  "related_domains": [
+    "Research Methodology",
+    "Knowledge",
+    "Structural Thinking",
+    "Education",
+    "Innovation"
+  ],
+  "created": "2026",
+  "template": "BTS-001",
+  "metadata_standard": "MDS-001"
+}
