@@ -6,61 +6,157 @@
   "books": [
 
     {
-      "id": "wrpe",
-      "title": "WRPE",
-      "subtitle": "Wisdom, Research, Philosophy and Engineering",
-      "author": "Jamshid Smaily",
-      "type": "Book",
-      "category": "Research",
-      "language": "English",
-      "status": "Published",
-      "version": "1.0",
-
-      "featured": true,
-      "foundational": true,
-
-      "cover": "books/wrpe/wrpe_cover.png",
-      "page": "books/wrpe/",
-      "metadata": "books/wrpe/metadata.json",
-      "sample": "books/wrpe/sample6.pdf"
-    },
-
-    {
-      "id": "intellectual-architecture",
-      "title": "Intellectual Architecture",
-      "author": "Jamshid Smaily",
-      "type": "Book",
-      "category": "Architecture",
-      "language": "English",
-      "status": "Published",
-      "version": "1.0",
-
-      "featured": true,
-      "foundational": true,
-
-      "cover": "books/intellectual-architecture/intellectual_architecture_cover.png",
-      "page": "books/intellectual-architecture/",
-      "metadata": "books/intellectual-architecture/metadata.json",
-      "sample": "books/intellectual-architecture/sample7.pdf"
-    },
-
-    {
-      "id": "wisdom-of-deylaman",
-      "title": "Wisdom of Deylaman",
+      "id": "hekmat-noor-vol1",
+      "title": "Hekmat Noor",
+      "subtitle": "Volume I",
       "author": "Jamshid Smaily",
       "type": "Book",
       "category": "Philosophy",
       "language": "English",
       "status": "Published",
       "version": "1.0",
-
       "featured": true,
       "foundational": true,
+      "cover": "books/hekmat-noor-vol1/cover.png",
+      "page": "/books/hekmat-noor-vol1/",
+      "metadata": "/books/hekmat-noor-vol1/metadata.json",
+      "pdf": "sample.pdf"
+    },
 
+    {
+      "id": "architecture-of-architecture",
+      "title": "Architecture of Architecture",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Architecture",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/architecture-of-architecture/cover.png",
+      "page": "/books/architecture-of-architecture/",
+      "metadata": "/books/architecture-of-architecture/metadata.json",
+      "pdf": "sample.pdf"
+    },
+
+    {
+      "id": "mathematics-in-architecture",
+      "title": "Mathematics in Architecture",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Mathematics",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/mathematics-in-architecture/cover.png",
+      "page": "/books/mathematics-in-architecture/",
+      "metadata": "/books/mathematics-in-architecture/metadata.json",
+      "pdf": "sample.pdf"
+    },
+
+    {
+      "id": "phoenix-of-deylaman",
+      "title": "Phoenix of Deylaman",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Civilization",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/phoenix-of-deylaman/cover.png",
+      "page": "/books/phoenix-of-deylaman/",
+      "metadata": "/books/phoenix-of-deylaman/metadata.json",
+      "pdf": "sample.pdf"
+    },
+
+    {
+      "id": "gilan",
+      "title": "Gilan",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Culture",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/gilan/cover.png",
+      "page": "/books/gilan/",
+      "metadata": "/books/gilan/metadata.json",
+      "pdf": "sample.pdf"
+    },
+
+    {
+      "id": "global-academic-success-map",
+      "title": "Global Academic Success Map",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Education",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/global-academic-success-map/cover.png",
+      "page": "/books/global-academic-success-map/",
+      "metadata": "/books/global-academic-success-map/metadata.json",
+      "pdf": "sample.pdf"
+    },
+
+    {
+      "id": "wrpe",
+      "title": "WRPE",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Research",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/wrpe/wrpe_cover.png",
+      "page": "/books/wrpe/",
+      "metadata": "/books/wrpe/metadata.json",
+      "pdf": "sample6.pdf"
+    },
+
+    {
+      "id": "intellectual-megastructure",
+      "title": "Intellectual Megastructure",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Architecture",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
+      "cover": "books/intellectual-megastructure/intellectual_megastructure_cover.png",
+      "page": "/books/intellectual-megastructure/",
+      "metadata": "/books/intellectual-megastructure/metadata.json",
+      "pdf": "sample7.pdf"
+    },
+
+    {
+      "id": "wisdom-of-deylaman",
+      "title": "Wisdom Of Deylaman",
+      "author": "Jamshid Smaily",
+      "type": "Book",
+      "category": "Philosophy",
+      "language": "English",
+      "status": "Published",
+      "version": "1.0",
+      "featured": true,
+      "foundational": true,
       "cover": "books/wisdom-of-deylaman/wisdom_of_deylaman_cover.png",
-      "page": "books/wisdom-of-deylaman/",
-      "metadata": "books/wisdom-of-deylaman/metadata.json",
-      "sample": "books/wisdom-of-deylaman/sample8.pdf"
+      "page": "/books/wisdom-of-deylaman/",
+      "metadata": "/books/wisdom-of-deylaman/metadata.json",
+      "pdf": "sample8.pdf"
     }
 
   ]
