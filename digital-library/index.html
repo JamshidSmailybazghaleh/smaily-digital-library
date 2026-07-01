@@ -447,7 +447,66 @@ Home
 <p>© 2026 Jamshid Smaily. All Rights Reserved.</p>
 
 </footer>
+<script>
 
+const BOOK_REGISTRY = "../registry/books.json";
+
+let libraryData = [];
+
+async function loadLibrary() {
+
+    try {
+
+        const response = await fetch(BOOK_REGISTRY);
+
+        if (!response.ok) {
+            throw new Error(
+                `Unable to load Book Registry (${response.status})`
+            );
+        }
+
+        const registry = await response.json();
+
+        libraryData = registry.books || [];
+
+        console.log(
+            `Digital Library Loaded: ${libraryData.length} publications`
+        );
+
+        initializeLibrary();
+
+    } catch (error) {
+
+        console.error("Library Error:", error);
+
+        document.getElementById("library-books").innerHTML = `
+            <div class="card">
+                <h3>Library Loading Error</h3>
+                <p>The Book Registry could not be loaded.</p>
+            </div>
+        `;
+
+    }
+
+}
+
+function initializeLibrary() {
+
+    console.log("Library Engine Initialized");
+
+    /*
+
+    Part 2
+
+    Build Book Cards
+
+    */
+
+}
+
+document.addEventListener("DOMContentLoaded", loadLibrary);
+
+</script>
 </body>
 
 </html>
