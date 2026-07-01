@@ -542,7 +542,69 @@ function initializeLibrary() {
 
             </p>
 
-        `;
+        /* ===========================
+       Library Statistics
+    =========================== */
+
+    const totalBooks = libraryData.length;
+
+    const featuredBooks =
+        libraryData.filter(book => book.featured).length;
+
+    const foundationalBooks =
+        libraryData.filter(book => book.foundational).length;
+
+    console.log("Total Books:", totalBooks);
+    console.log("Featured:", featuredBooks);
+    console.log("Foundational:", foundationalBooks);
+
+
+
+    /* ===========================
+       Categories
+    =========================== */
+
+    const categories =
+        [...new Set(libraryData.map(book => book.category))];
+
+    console.log("Categories:", categories);
+
+
+
+    /* ===========================
+       Languages
+    =========================== */
+
+    const languages =
+        [...new Set(libraryData.map(book => book.language))];
+
+    console.log("Languages:", languages);
+
+
+
+    /* ===========================
+       Future Ready
+    =========================== */
+
+    window.LibraryEngine = {
+
+        books: libraryData,
+
+        categories: categories,
+
+        languages: languages,
+
+        statistics: {
+
+            total: totalBooks,
+
+            featured: featuredBooks,
+
+            foundational: foundationalBooks
+
+        }
+
+    };
 
         libraryContainer.appendChild(card);
 
