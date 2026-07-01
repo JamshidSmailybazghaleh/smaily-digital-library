@@ -17,7 +17,7 @@
       "version": "1.0",
       "featured": true,
       "foundational": true,
-      "cover": "books/hekmat-noor-vol1/cover.png",
+      "cover": "books/hekmat-noor-vol1-cover.png",
       "page": "/books/hekmat-noor-vol1/",
       "metadata": "/books/hekmat-noor-vol1/metadata.json",
       "pdf": "sample.pdf"
@@ -34,7 +34,7 @@
       "version": "1.0",
       "featured": true,
       "foundational": true,
-      "cover": "books/architecture-of-architecture/cover.png",
+      "cover": "books/architecture-of-architecture-cover.png",
       "page": "/books/architecture-of-architecture/",
       "metadata": "/books/architecture-of-architecture/metadata.json",
       "pdf": "sample1.pdf"
@@ -85,7 +85,7 @@
       "version": "1.0",
       "featured": true,
       "foundational": true,
-      "cover": "books/gilan/cover.png",
+      "cover": "books/gilan-cover.png",
       "page": "/books/gilan/",
       "metadata": "/books/gilan/metadata.json",
       "pdf": "sample 4.pdf"
@@ -102,7 +102,7 @@
       "version": "1.0",
       "featured": true,
       "foundational": true,
-      "cover": "books/global-academic-success-map/cover.png",
+      "cover": "books/global-academic-success-map-cover.png",
       "page": "/books/global-academic-success-map/",
       "metadata": "/books/global-academic-success-map/metadata.json",
       "pdf": "sample 5.pdf"
