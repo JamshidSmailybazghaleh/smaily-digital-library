@@ -494,13 +494,79 @@ function initializeLibrary() {
 
     console.log("Library Engine Initialized");
 
-    /*
+    /<script>
 
-    Part 2
+function initializeLibrary() {
 
-    Build Book Cards
+    const featuredContainer =
+        document.getElementById("featured-books");
 
-    */
+    const foundationalContainer =
+        document.getElementById("foundational-books");
+
+    const libraryContainer =
+        document.getElementById("library-books");
+
+    featuredContainer.innerHTML = "";
+    foundationalContainer.innerHTML = "";
+    libraryContainer.innerHTML = "";
+
+    libraryData.forEach(book => {
+
+        const card = document.createElement("div");
+
+        card.className = "card";
+
+        card.innerHTML = `
+
+            <img
+                src="../${book.cover}"
+                alt="${book.title}"
+                class="book-cover">
+
+            <h3>${book.title}</h3>
+
+            <p>${book.category}</p>
+
+            <p><strong>${book.status}</strong></p>
+
+            <p>
+
+                <a class="button"
+
+                   href="../${book.page}">
+
+                   Open Book
+
+                </a>
+
+            </p>
+
+        `;
+
+        libraryContainer.appendChild(card);
+
+        if (book.featured === true) {
+
+            featuredContainer.appendChild(
+                card.cloneNode(true)
+            );
+
+        }
+
+        if (book.foundational === true) {
+
+            foundationalContainer.appendChild(
+                card.cloneNode(true)
+            );
+
+        }
+
+    });
+
+}
+
+</script>/
 
 }
 
