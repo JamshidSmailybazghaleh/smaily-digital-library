@@ -1,0 +1,28 @@
+{
+  "title": "Digital Library",
+  "subtitle": "The Official Library of the Smaily Knowledge Ecosystem",
+  "type": "Hub",
+  "author": "Jamshid Smaily",
+  "language": "English",
+  "status": "Published",
+  "category": "Knowledge Ecosystem",
+  "description": "The official digital library of the Smaily Knowledge Ecosystem. A unified collection of books, research publications, foundational works and intellectual resources, designed for long-term knowledge preservation and global accessibility.",
+  "cover": "digital-library-cover.png",
+  "url": "/digital-library/",
+  "version": "2.0",
+  "last_updated": "2026-07-01",
+  "keywords": [
+    "Digital Library",
+    "Books",
+    "Knowledge Ecosystem",
+    "Research",
+    "Foundational Works",
+    "Knowledge Graph",
+    "Architecture",
+    "Mathematics",
+    "Philosophy",
+    "Education",
+    "Artificial Intelligence",
+    "Smaily"
+  ]
+}
