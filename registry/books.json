@@ -37,7 +37,7 @@
       "cover": "books/architecture-of-architecture/cover.png",
       "page": "/books/architecture-of-architecture/",
       "metadata": "/books/architecture-of-architecture/metadata.json",
-      "pdf": "sample.pdf"
+      "pdf": "sample1.pdf"
     },
 
     {
@@ -54,7 +54,7 @@
       "cover": "books/mathematics-in-architecture/cover.png",
       "page": "/books/mathematics-in-architecture/",
       "metadata": "/books/mathematics-in-architecture/metadata.json",
-      "pdf": "sample.pdf"
+      "pdf": "sample 2.pdf"
     },
 
     {
@@ -71,7 +71,7 @@
       "cover": "books/phoenix-of-deylaman/cover.png",
       "page": "/books/phoenix-of-deylaman/",
       "metadata": "/books/phoenix-of-deylaman/metadata.json",
-      "pdf": "sample.pdf"
+      "pdf": "sample 3.pdf"
     },
 
     {
@@ -88,7 +88,7 @@
       "cover": "books/gilan/cover.png",
       "page": "/books/gilan/",
       "metadata": "/books/gilan/metadata.json",
-      "pdf": "sample.pdf"
+      "pdf": "sample 4.pdf"
     },
 
     {
@@ -105,7 +105,7 @@
       "cover": "books/global-academic-success-map/cover.png",
       "page": "/books/global-academic-success-map/",
       "metadata": "/books/global-academic-success-map/metadata.json",
-      "pdf": "sample.pdf"
+      "pdf": "sample 5.pdf"
     },
 
     {
